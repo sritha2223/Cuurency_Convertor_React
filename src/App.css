@@ -1,0 +1,46 @@
+/* App.css */
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtRFNtufYx_oU-UYKJ0wJ-V15Rsc6sF0Fuxg&s') no-repeat center center fixed;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app {
+  padding: 15px;
+  border-radius: 8px;
+  width: 250px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+input,
+select,
+button {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 8px;
+  margin: 6px 0;
+  font-size: 14px;
+}
+
+
+button {
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
