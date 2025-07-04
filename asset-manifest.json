@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Cuurency_Convertor_React/static/css/main.a28e0b3d.css",
+    "main.js": "/Cuurency_Convertor_React/static/js/main.6fc592be.js",
+    "static/js/453.9de6b8f8.chunk.js": "/Cuurency_Convertor_React/static/js/453.9de6b8f8.chunk.js",
+    "index.html": "/Cuurency_Convertor_React/index.html",
+    "main.a28e0b3d.css.map": "/Cuurency_Convertor_React/static/css/main.a28e0b3d.css.map",
+    "main.6fc592be.js.map": "/Cuurency_Convertor_React/static/js/main.6fc592be.js.map",
+    "453.9de6b8f8.chunk.js.map": "/Cuurency_Convertor_React/static/js/453.9de6b8f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a28e0b3d.css",
+    "static/js/main.6fc592be.js"
+  ]
+}
